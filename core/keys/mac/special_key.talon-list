@@ -5,8 +5,8 @@ os: mac
 end: end
 home: home
 minus: minus
-return: return
-enter: keypad_enter
+enter: return
+return: keypad_enter
 page down: pagedown
 page up: pageup
 escape: escape

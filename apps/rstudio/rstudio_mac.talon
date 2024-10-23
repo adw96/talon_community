@@ -2,7 +2,7 @@ os: mac
 app: RStudio
 -
 
-run that: key("cmd-enter")
+run (that | it): key("cmd-enter")
 run document: key("cmd-alt-r")
 run from top: key("cmd-alt-b")
 run to end: key("cmd-alt-e")

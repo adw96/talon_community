@@ -254,7 +254,7 @@ code_formatter_names = {
     "packed": "DOUBLE_COLON_SEPARATED",
     "padded": "SPACE_SURROUNDED_STRING",
     "slasher": "ALL_SLASHES",
-    "conga": "SLASH_SEPARATED",
+    "slashway": "SLASH_SEPARATED",
     "smash": "NO_SPACES",
     "snake": "SNAKE_CASE",
     "string": "SINGLE_QUOTED_STRING",

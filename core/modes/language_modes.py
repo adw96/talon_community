@@ -30,6 +30,8 @@ language_extensions = {
     "python": "py",
     "protobuf": "proto",
     "r": "r",
+    "umbrella": "r",
+    "r": "r",
     # 'racket': 'rkt',
     "ruby": "rb",
     "rust": "rs",

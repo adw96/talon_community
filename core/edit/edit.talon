@@ -57,40 +57,40 @@ indent [more]: edit.indent_more()
 (indent less | out dent): edit.indent_less()
 
 # Delete
-clear left: edit.delete()
-clear right: user.delete_right()
+# clear left: edit.delete()
+# clear right: user.delete_right()
 
-clear up:
-    edit.extend_line_up()
-    edit.delete()
+# clear up:
+#     edit.extend_line_up()
+#     edit.delete()
 
-clear down:
-    edit.extend_line_down()
-    edit.delete()
+# clear down:
+#     edit.extend_line_down()
+#     edit.delete()
 
-clear word left:
-    edit.extend_word_left()
-    edit.delete()
+# clear word left:
+#     edit.extend_word_left()
+#     edit.delete()
 
-clear word right:
-    edit.extend_word_right()
-    edit.delete()
+# clear word right:
+#     edit.extend_word_right()
+#     edit.delete()
 
-clear way left:
-    edit.extend_line_start()
-    edit.delete()
+# clear way left:
+#     edit.extend_line_start()
+#     edit.delete()
 
-clear way right:
-    edit.extend_line_end()
-    edit.delete()
+# clear way right:
+#     edit.extend_line_end()
+#     edit.delete()
 
-clear way up:
-    edit.extend_file_start()
-    edit.delete()
+# clear way up:
+#     edit.extend_file_start()
+#     edit.delete()
 
-clear way down:
-    edit.extend_file_end()
-    edit.delete()
+# clear way down:
+#     edit.extend_file_end()
+#     edit.delete()
 
 # Copy
 copy that: edit.copy()

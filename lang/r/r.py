@@ -6,6 +6,10 @@ ctx.matches = r"""
 code.language: r
 """
 
+# How do you use this? 
+# By default, `force are language` then (eg) `funk as integer`
+# or `named arg why limit`
+
 ctx.lists["user.code_common_function"] = {
     # base R
     "as character": "as.character",
@@ -61,6 +65,7 @@ ctx.lists["user.code_common_function"] = {
     "type": "typeof",
     "unique": "unique",
     "vector": "c",
+    "vectorize": "Vectorize",
     "vee table": "vtable",
     "view": "View",
     # dplyr
@@ -219,6 +224,7 @@ ctx.lists["user.code_parameter_name"] = {
     "main": "main",
     "mapping": "mapping",
     "method": "method",
+    "en": "n", 
     "NA remove": "na.rm",
     "path": "path",
     "position": "position",

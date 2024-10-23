@@ -32,9 +32,9 @@ library <user.code_libraries>:
 
 # R specific commands
 (chain | pipe that):
-    key(end)
+    # key(end)
     " %>%"
-    key(enter)
+    # key(enter)
 state na: insert("NA")
 
 # TODO: migrate to function tag
