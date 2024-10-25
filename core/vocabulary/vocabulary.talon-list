@@ -30,7 +30,6 @@ tRNAs
 G T D B: GTDB
 statdivlab
 stative labs: statdivlab
-anvio
 anvi
 genome
 contig
@@ -48,8 +47,6 @@ grep
 grep
 all genes
 all geness
-anvi'o
-anvi'os: "anvi'o's"
 genes
 codon compositions
 codon composition
@@ -58,8 +55,8 @@ ungroup
 codon compositions
 subcomposition
 subcompositions
-sarah
-sarahs: "sarah's"
+Sarah
+sarahs: "Sarah's"
 estimand
 estimands
 ami: 'am I'
@@ -69,3 +66,34 @@ code on: 'codon'
 anti code on: 'anticodon'
 cordons: 'codons'
 rana: 'RNA'
+Pauline
+Paulines: "Pauline's"
+poling: 'Pauline'
+polings: "Pauline's"
+polling: 'Pauline'
+pollings: "Pauline's"
+metatranscriptomic
+metatranscriptomics
+metagenomic
+metagenomics
+omic
+omics
+marron: 'Meren'
+marrons: "Meren's"
+maron: 'Meren'
+marons: "Meren's"
+cardon: 'codon'
+cardons: 'codons'
+you carat: 'eukaryote'
+you carats: 'eukaryotes'
+you carrot: 'eukaryote'
+you carrots: 'eukaryotes'
+Illumina
+Illumina's
+screen sava: "screensaver"
+screen saves: "screensavers"
+jeans: 'genes'
+potty: 'party'
+conda
+clusterize
+a bout: 'about'
