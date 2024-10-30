@@ -22,6 +22,7 @@ ctx.lists["user.code_common_function"] = {
     "base read RDS": "readRDS",
     "base save RDS": "saveRDS",
     "cable": "kable",
+    "class": "class", 
     "correlation": "cor",
     "count": "count",
     "covariance": "cov",
@@ -121,6 +122,11 @@ ctx.lists["user.code_common_function"] = {
     "scale fill viridis": "scale_fill_viridis_c",
     "scale colour viridis": "scale_colour_viridis_c",
     "theme set": "theme_set",
+    # phyloseq
+    "sample data": "sample_data", 
+    "subset samples": "subset_samples",
+    "filter samples": "subset_samples",
+    
     # purrr
     "map character": "map_chr",
     "map data frame": "map_dfr",
