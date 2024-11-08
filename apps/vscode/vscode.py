@@ -14,6 +14,8 @@ os: mac
 and app.bundle: com.visualstudio.code.oss
 os: mac
 and app.bundle: com.todesktop.230313mzl4w4u92
+os: mac
+and app.bundle: com.rstudio.positron
 """
 mod.apps.vscode = """
 os: linux
@@ -28,6 +30,8 @@ os: linux
 and app.name: Codium
 os: linux
 and app.name: Cursor
+os: linux
+and app.name: Positron
 """
 mod.apps.vscode = r"""
 os: windows
@@ -48,6 +52,8 @@ os: windows
 and app.name: Azure Data Studio
 os: windows
 and app.exe: /^azuredatastudio\.exe$/i
+os: windows
+and app.exe: Positron.exe
 """
 
 ctx.matches = r"""

@@ -4,6 +4,7 @@ comment: user.code_comment_line_prefix()
 comment line:
     #todo: this should probably be a single function once
     #.talon supports implementing actions with parameters?
+    # amy: I actually didn't want this to go to the stout of the line so I have rewritten
     edit.line_start()
     user.code_comment_line_prefix()
 #adds comment to the start of the line

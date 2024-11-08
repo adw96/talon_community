@@ -9,6 +9,14 @@ look for something:
 look for file name:
     insert('find . -name ""')
     key(left)
+look for something in are file:
+    insert('find . -type f -name "*.R" -exec grep "" {} +')
+    key(left)
+    key(left)
+    key(left)
+    key(left)
+    key(left)
+    key(left)
 abandon (that | it):
     key(ctrl-c)
 

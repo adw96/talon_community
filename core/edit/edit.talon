@@ -21,8 +21,10 @@ scroll down: edit.page_down()
 # go word left, go 2 words right
 go <user.navigation_step>+: user.perform_navigation_steps(navigation_step_list)
 
-go line start | head: edit.line_start()
-go line end | tail: edit.line_end()
+# go line start | head: edit.line_start()
+# go line end | tail: edit.line_end()
+go line start: edit.line_start()
+go line end: edit.line_end()
 
 go way left:
     edit.line_start()
@@ -143,7 +145,8 @@ clone line: edit.line_clone()
 
 # Insert new line
 new line above: edit.line_insert_up()
-new line below | slap: edit.line_insert_down()
+new line below: edit.line_insert_down()
+# new line below | slap: edit.line_insert_down()
 
 # Insert padding with optional symbols
 (pad | padding): user.insert_between(" ", " ")

@@ -173,7 +173,7 @@ symbol_key_words = {
     "down score": "_",
     "underscore": "_",
     "paren": "(",
-    "brace": "{",
+    "curly brace": "{",
     "left brace": "{",
     "curly bracket": "{",
     "left curly bracket": "{",
