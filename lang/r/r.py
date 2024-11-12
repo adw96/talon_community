@@ -62,6 +62,7 @@ ctx.lists["user.code_common_function"] = {
     "subset": "subset",
     "sum": "sum",
     "summary": "summary",
+    "table": "table", 
     "tail": "tail",
     "tidy": "tidy",
     # "trim white space": "trimws",

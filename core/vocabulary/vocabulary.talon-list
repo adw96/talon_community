@@ -33,6 +33,14 @@ stative labs: statdivlab
 anvi
 genome
 contig
+Pauline
+Paulines: "Pauline's"
+poling: 'Pauline'
+polings: "Pauline's"
+polling: 'Pauline'
+pollings: "Pauline's"
+Sarah
+sarahs: "Sarah's"
 Daniela
 danielas: "Daniela's"
 Florian
@@ -41,12 +49,14 @@ Iva
 Ivas: "Iva's"
 Meren
 Merens: "Meren's"
+marron: 'Meren'
+marrons: "Meren's"
+maron: 'Meren'
+marons: "Meren's"
 chatgpt
 chatgpts
 grep
-grep
-all genes
-all geness
+all gene
 genes
 codon compositions
 codon composition
@@ -55,8 +65,6 @@ ungroup
 codon compositions
 subcomposition
 subcompositions
-Sarah
-sarahs: "Sarah's"
 estimand
 estimands
 ami: 'am I'
@@ -66,22 +74,12 @@ code on: 'codon'
 anti code on: 'anticodon'
 cordons: 'codons'
 rana: 'RNA'
-Pauline
-Paulines: "Pauline's"
-poling: 'Pauline'
-polings: "Pauline's"
-polling: 'Pauline'
-pollings: "Pauline's"
 metatranscriptomic
 metatranscriptomics
 metagenomic
 metagenomics
 omic
 omics
-marron: 'Meren'
-marrons: "Meren's"
-maron: 'Meren'
-marons: "Meren's"
 cardon: 'codon'
 cardons: 'codons'
 you carat: 'eukaryote'
@@ -105,4 +103,7 @@ archaea
 aia: 'archaea'
 aia: 'archaea'
 centimes: 'syntenous'
-centimess: 'syntenouss'
+centimess: 'syntenous'
+phylum
+pilum: 'phylum'
+cola id: 'caller id'
