@@ -17,9 +17,12 @@ class EditActions:
     def delete_line():
         actions.key("ctrl-u")
 
-
 @ctx.action_class("user")
 class UserActions:
+    def tab_jump(number: int):
+        if number <= 9:
+            actions.key(f"cmd-alt-{number}")
+
     def file_manager_current_path():
         title = ui.active_window().title
 
@@ -88,3 +91,7 @@ class app_actions:
 
     def tab_next():
         actions.key("ctrl-tab")
+
+    # def tab_jump(number: int):
+    #     actions.key(f"cmd-option-{number}")
+

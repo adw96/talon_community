@@ -5,18 +5,17 @@ chris: key(right)
 scram: edit.extend_word_left()
 scrish: edit.extend_word_right()
 
-
-spark: key(cmd-v)
+# spark: key(cmd-v)
 
 swipe: insert(", ")
 pausa: insert(" -- ")
 tinker: insert("`")
-insert knitter chunk: insert("```")
+insert (knitter | code) chunk: insert("```")
+insert chunk: insert("```")
+crunder: insert("_")
 equeft: insert(" = ")
 word poll: insert("pull")
 
-
-crunder: insert("_")
 
 # this is actually probably fine
 inter inter: 

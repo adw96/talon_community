@@ -8,7 +8,7 @@ settings():
 
 run it: key("cmd-return")
 assign that: key("alt--")
-pipe that: key("cmd-shift-m")
+(chain | pipe that): key("cmd-shift-m")
 
 # ^run script$:
 #     key("ctrl-shift-return")

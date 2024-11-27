@@ -6,6 +6,10 @@ look for something:
     # add w if want whole words matched
     insert("grep -rni . -e ''")
     key(left)
+look for something in history: 
+    # add w if want whole words matched
+    insert("history | grep ''")
+    key(left)
 look for file name:
     insert('find . -name ""')
     key(left)
